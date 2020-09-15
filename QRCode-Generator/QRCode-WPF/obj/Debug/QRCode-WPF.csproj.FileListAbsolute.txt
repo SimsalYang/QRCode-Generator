@@ -1,0 +1,17 @@
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\bin\Debug\QRCode-WPF.exe.config
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\bin\Debug\QRCode-WPF.exe
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\bin\Debug\QRCode-WPF.pdb
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\bin\Debug\QRCoder.dll
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\QRCode-WPF.csprojAssemblyReference.cache
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\App.g.cs
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\QRCode-WPF_MarkupCompile.cache
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\QRCode-WPF_MarkupCompile.lref
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\MainWindow.baml
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\QRCode-WPF.g.resources
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\QRCode_WPF.Properties.Resources.resources
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\QRCode-WPF.csproj.GenerateResource.cache
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\QRCode-WPF.csproj.CoreCompileInputs.cache
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\QRCode-WPF.csproj.CopyComplete
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\QRCode-WPF.exe
+C:\Users\xuewu\Workspace\coding\QRCode-Generator\QRCode-Generator\QRCode-WPF\obj\Debug\QRCode-WPF.pdb
